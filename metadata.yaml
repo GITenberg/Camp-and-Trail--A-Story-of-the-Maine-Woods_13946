@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5299'
     url: http://www.gutenberg.org/2009/agents/5299
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13946#Camp-and-Trail--A-Story-of-the-Maine-Woods
 gutenberg_issued: '2004-11-04'
 gutenberg_type: Text
 identifiers:
