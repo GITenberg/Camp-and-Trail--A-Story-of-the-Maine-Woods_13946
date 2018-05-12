@@ -1,0 +1,36 @@
+_repo: Camp-and-Trail--A-Story-of-the-Maine-Woods_13946
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hornibrook, Isabel
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '5299'
+    url: http://www.gutenberg.org/2009/agents/5299
+description: ''
+gutenberg_issued: '2004-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Trails -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Maine -- Juvenile fiction'
+title: 'Camp and Trail: A Story of the Maine Woods'
+url: http://www.gutenberg.org/ebooks/13946
